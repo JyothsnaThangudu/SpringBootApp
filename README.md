@@ -1,4 +1,4 @@
-
+<img width="1920" height="1140" alt="Screenshot 2025-07-13 083946" src="https://github.com/user-attachments/assets/1513d95f-9492-4366-b858-4234004f1a9f" />
 # Spring Boot Starter Application
 
 This is a simple Spring Boot application built with Java 21 and Maven. It starts a local web server at `http://localhost:8080` and connects to a MySQL database named `hms_db`.
@@ -35,7 +35,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
-<img width="1920" height="1140" alt="Screenshot 2025-07-13 083946" src="https://github.com/user-attachments/assets/1513d95f-9492-4366-b858-4234004f1a9f" />
+
 
 ▶️ How to Run
 1.Clone the repository

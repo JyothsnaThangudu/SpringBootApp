@@ -23,12 +23,14 @@ This is a simple Spring Boot application built with Java 21 and Maven. It starts
 
 springbootapp/
 ├── src/
-│ └── main/
-│ ├── java/
-│ │ └── com/example/springbootapp/
-│ │ └── controller/
-│ └── resources/
-│ └── application.properties
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── example/
+│       │           └── springbootapp/
+│       │               └── controller/
+│       └── resources/
+│           └── application.properties
 ├── pom.xml
 └── README.md
 

@@ -19,21 +19,6 @@ This is a simple Spring Boot application built with Java 21 and Maven. It starts
 - MySQL Driver  
 - MySQL Workbench
 
-## 📂 Project Structure
-
-springbootapp/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/
-│       │       └── example/
-│       │           └── springbootapp/
-│       │               └── controller/
-│       └── resources/
-│           └── application.properties
-├── pom.xml
-└── README.md
-
 
 ## ⚙️ Configuration
 
@@ -48,6 +33,7 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
 
 ▶️ How to Run
 1.Clone the repository
